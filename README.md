@@ -9,7 +9,7 @@ I have a passion for games because the combination of technology and creativity 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhino-o7&layout=compact&hide=ShaderLab,Mathematica,HLSL&theme=dark&border_color=0000FF">
 </p>
-
+ 
 
 
 
