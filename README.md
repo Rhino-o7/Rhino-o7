@@ -1,5 +1,7 @@
 <img src="rhino.gif">
-<p>&nbsp;</p> 
+
+![](https://komarev.com/ghpvc/?username=Rhino-o7)
+
 Hello There!👋  I'm Ryan, an aspiring programmer and game designer. 
 I am currently enrolled at the University of Wisconsin-Whitewater working towards a Bachelor's degree in “Media Arts and Game Development” along with a minor in Cybersecurity. 
 <p>&nbsp;</p> 
@@ -9,6 +11,8 @@ I have a passion for games because the combination of technology and creativity 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhino-o7&layout=compact&hide=ShaderLab,Mathematica,HLSL&theme=dark&border_color=0000FF">
 </p>
+
+
  
 
 
