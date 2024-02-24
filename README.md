@@ -8,11 +8,14 @@ I have knowledge in varying coding languages from C++ to Python along with diffe
 I have a passion for games because the combination of technology and creativity creates vast opportunities for imagination and innovation. 
 <p>&nbsp;</p> 
 
-<p align="">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhino-o7&layout=compact&hide=ShaderLab,Mathematica,HLSL&theme=dark&border_color=0000FF">
+  <br>
+  <img src = "https://komarev.com/ghpvc/?username=Rhino-o7">
+  
 </p>
 
-![](https://komarev.com/ghpvc/?username=Rhino-o7)
+
 
  
 
