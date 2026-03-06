@@ -8,7 +8,7 @@ I have a passion for interactive and digital media because the combination of te
 <p>&nbsp;</p> 
 
 <p align="center">
-  <img src="github-readme-stats-zeta-five-94.vercel.app/api/top-langs/?username=Rhino-o7&layout=compact&hide=ShaderLab,Mathematica,HLSL&theme=dark&border_color=0000FF">
+  <img src="https://github-readme-stats-zeta-five-94.vercel.app/api/top-langs/?username=Rhino-o7&layout=compact&hide=ShaderLab,Mathematica,HLSL&theme=dark&border_color=0000FF">
   <br>
   <img src = "https://komarev.com/ghpvc/?username=Rhino-o7">
   
